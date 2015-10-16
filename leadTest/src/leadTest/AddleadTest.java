@@ -48,7 +48,7 @@ public class AddleadTest {
 		
 		nlp.enterLeadName(generatedName);
 		
-		nlp.enterLeadLastName("Banan");
+		nlp.enterLeadLastName("Bananowyfdsf");
 		
 		nlp.enterLeadCompanyName("Gr8Comp");
 		
@@ -64,11 +64,11 @@ public class AddleadTest {
 		
 		nlp.enterLeadStreet("Kowalskiego");
 		
-		nlp.enterLeadCity("Kraków");
+		nlp.enterLeadCity("Krakï¿½w");
 		
 		nlp.enterLeadCode("12-123");
 		
-		nlp.enterLeadRegion("Ma³opolska");
+		nlp.enterLeadRegion("Maï¿½opolska");
 		
 		nlp.enterLeadCoutry("Poland");
 		
